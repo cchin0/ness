@@ -9,14 +9,8 @@ body {
   height: 900px;
 	margin: auto;
 	margin-top: 0px;
-	background-image: url('https://file.garden/aG3rdTNO_Dlar7-g/composition%20book.jpeg');
+	color: white;
 	padding: 24px 60px;
 	box-sizing: border-box;
 	margin-bottom: 0px;
-
-}
-
-.button {
-  background-image: url('https://file.garden/aG3rdTNO_Dlar7-g/composition%20book%20written.png');
-  font-size: 24px;
 }
