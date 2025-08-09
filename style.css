@@ -2,8 +2,11 @@ body {
   background-image: url('https://file.garden/aG3rdTNO_Dlar7-g/back.png');
   background-size: 100%;
   margin: auto;
-  width: 675px;
-  height: 900px;
+}
+
+.body{
+	width: 675px;
+    height: 900px;
 	margin: auto;
 	margin-top: 0px;
 	color: white;
