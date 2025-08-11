@@ -5,7 +5,7 @@ body, html {
 	margin: 0;
 	font-size: 13px;
 	background: #0d4d6f;
-	color: #abcc08;
+	color: #dde8ed;
 	font-family: 'Source Code Pro', monospace;
 	font-size: 12px;
 }
@@ -66,11 +66,11 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-	border-bottom: 1px solid lime;
+	border-bottom: 1px solid #abcc08;
 }
 
 h2 {
-	border-bottom: 1px dotted lime;
+	border-bottom: 1px solid #abcc08;
 }
 
 a {
