@@ -15,7 +15,15 @@ body {
 	margin-bottom: 0px;
 }
 
-.a{
+.container {
 	margin: auto;
-	position: relative;
+	position: fixed;
+  top: 50%;      
+  left: 50%;    
+  transform: translate(-50%, -50%); 
+  
+  width: 300px;
+  height: 200px;
+  background: white;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
