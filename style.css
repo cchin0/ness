@@ -61,16 +61,18 @@ img {
 	height: 439px;
 }
 
-h1, h2, h3, h4, h5 {
-	font-size: 12px;
+h1 {
+	font-size: 15px;
+	border-bottom: 1px solid #4476a4;
 }
 
-h1 {
+h2 {
+	font-size: 12px;
 	border-bottom: 1px solid #abcc08;
 }
 
 h2 {
-	border-bottom: 1px solid #abcc08;
+	
 }
 
 a {
