@@ -21,3 +21,35 @@ body {
   left: -13px;
   top: -15px;
 }  
+
+
+.crt {
+  position:absolute;
+  margin: auto;
+  width: 200px;
+  height: 195.89px;
+  left: 12px;
+  top: 27px;
+  object-fit: contain;
+}
+
+.kch{
+  position:absolute;
+  margin: auto;
+  width: 160px;
+  height: 170px;
+  left: 66px;
+  top: 473px;
+  object-fit: contain;
+}
+
+
+.pkm{
+  position:absolute;
+  margin: auto;
+  width:266.42px;
+  height: 297.33px;
+  left: 121px;
+  top: 464px;
+  object-fit: contain;
+}
