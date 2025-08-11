@@ -4,8 +4,8 @@ body, html {
 	padding: 0;
 	margin: 0;
 	font-size: 13px;
-	background: #000;
-	color: lime;
+	background: #0d4d6f;
+	color: #abcc08;
 	font-family: 'Source Code Pro', monospace;
 	font-size: 12px;
 }
@@ -41,7 +41,7 @@ img {
 }
 
 .menu a {
-	color: lime;
+	color: #abcc08;
 }
 
 .main {
@@ -74,5 +74,5 @@ h2 {
 }
 
 a {
-	color: red;
+	color: #4476a4;
 }
