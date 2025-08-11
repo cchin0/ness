@@ -52,7 +52,7 @@ img {
 }
 
 .main iframe {
-	border: none;
+	border: solid #abcc08;
 	border: none;
 	position: absolute;
 	top: 35px;
@@ -63,9 +63,13 @@ img {
 
 h1 {
 	color: #abcc08;
-	border-bottom: 1px solid #7da4466a;
+	border-bottom: 3px solid #7da4466a;
 }
 
 a {
-	color: #4476a4;
+	color: #7da4466a;
+}
+
+a:hover{
+	color: #abdc33
 }
