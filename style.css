@@ -13,12 +13,12 @@ body {
 	padding: 24px 60px;
 	box-sizing: border-box;
 	margin-bottom: 0px;
-	position: fixed;
+	position: relative;
 }
 
 .container {
   margin: auto;
-  position: fixed;
+  position: absolute;
   top: 50%;      
   left: 50%;    
   transform: translate(-50%, -50%); 
