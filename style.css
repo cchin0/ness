@@ -28,6 +28,12 @@ img {
 	display: block;
 }
 
+.footer-image {
+	height: 100px;
+	margin: auto;
+	display: block;
+}
+
 .wrapper {
 	margin: auto;
 	margin-top: 24px;
